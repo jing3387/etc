@@ -3,4 +3,3 @@ if [ -s $HOME/.bashrc ]; then
 fi
 
 export PS1='\w $ '
-export EDITOR='mvim -v'
